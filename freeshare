@@ -1,17 +1,6 @@
-<html>
-<head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">	
-<script language="javascript">
-  window.location = "https://t.me/jambeetv";
-</script></head></html>
+Gabung Grup Telegram https://t.me/jambeetv
 
 
-
-################################################################################
-.INFORMASI
-################################################################################
 
 
 #EXTINF:-1 tvg-id="JAMBEETV" tvg-logo="https://data.textstudio.com/output/sample/animated/5/7/3/5/information-3-5375.gif" group-title=".INFORMASI",INFO
@@ -19,12 +8,6 @@ https://raw.githubusercontent.com/forumberbagi/forumberbagi/main/rules.mp4?raw=t
 
 #EXTINF:-1 tvg-id="JAMBEETV" tvg-logo="https://data.textstudio.com/output/sample/animated/5/7/3/5/information-3-5375.gif" group-title=".INFORMASI",INFO LAGI
 https://raw.githubusercontent.com/forumberbagi/forumberbagi/main/mc.mp4?raw=true
-
-
-################################################################################
-.NEW MOVIE 2024
-################################################################################
-
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
 #EXTINF:-1 tvg-id="JAMBEETV" tvg-logo="https://i.imgur.com/zqKnjOm.png" group-title=".NEW MOVIE 2024",Kingdom Planet the Apes (2024)
@@ -87,14 +70,6 @@ https://stream.hownetwork.xyz/xxx/tarot-2024-bluray_X_ab45590f/22/480.m3u8
 
 #EXTINF:-1 group-title=".NEW MOVIE 2024" tvg-logo="https://i.imgur.com/0f8GPFm.png",Winnie-the-Pooh: Blood and Honey 2 (2024)
 https://stream.hownetwork.xyz/xxx/winnie-the-pooh-blood-and-honey-2-2024-webdl_X_3dbda99e/22/480.m3u8
-
-
-
-
-################################################################################
-1. TV NASIONAL
-################################################################################
-
 
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://i.imgur.com/OvnhBdI.png" group-title="1. TV NASIONAL", ANTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -306,14 +281,6 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeOtyVH.png" group-title="1. TV NASIONAL",MOJI 2
 http://210.210.155.37/x6bnqe/s/s41/index.m3u8
 
-
-
-################################################################################
-7. KIDS CHANNEL
-################################################################################
-
-
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -445,16 +412,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
-
-
-
-
-################################################################################
-9. RELIGI AGAMA
-################################################################################
-
-
-
 #https://live.alwafatarim.tv/
 #EXTGRP:9. RELIGI AGAMA
 #EXTINF:0 tvg-id="AlWafaTarim.id" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-wafa-tarim-id.png",Al Wafa Tarim1
@@ -572,15 +529,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
-
-
-
-################################################################################
-10. CINEMA CHANNEL
-################################################################################
-
-
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="10. CINEMA CHANNEL", Cinemax 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -630,15 +578,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da299
 #KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/2407/default.mpd
-
-
-
-
-################################################################################
-11. INDIA CHANEL
-################################################################################
-
-
 
 #EXTINF:-1 tvg-logo="https://lo1.in/indo/zee.png" group-title="11. INDIA CHANEL", ZEE BIOSKOP 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -706,14 +645,6 @@ https://stream.hownetwork.xyz/xxx/dilwale-dulhania-le-jayenge-1995-bluray/3/480.
 #EXTINF:-1 type="movie" tvg-logo="https://jurnalposmedia.com/wp-content/uploads/2020/05/liputan6.com_.jpg" group-title="11. INDIA CHANEL", 3 Idiots (2009)
 #EXTVLCOPT:http-referrer=http://172.96.161.72/
 https://stream.hownetwork.xyz/xxx/3-idiots-2009-bluray/3/480.m3u8
-
-
-
-################################################################################
-12. SINGAPORE CHANEL 
-################################################################################
-
-
 
 #EXTINF:-1  tvg-id="Ch 5" group-title="12. SINGAPORE CHANEL " group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png", Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -800,14 +731,6 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 #EXTINF:-1 group-title="12. SINGAPORE CHANEL " group-logo="https://pictr.com/images/2023/04/18/En6E2j.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/19/EMxB86.png",meWATCH LIVE 2
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
-
-
-
-################################################################################
-13. KOREA CHANNEL
-################################################################################
-
-
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -897,13 +820,6 @@ https://bbslive.clouducs.com/bbstv-live/livestream/chunklist_w709537923.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbs.dreamstime.com/b/wbc-letter-initial-logo-design-vector-illustration-wbc-letter-initial-logo-design-vector-illustration-letter-initial-logo-design-236645134.jpg" group-title="13. KOREA CHANNEL",WBC
 https://cdnlive29.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/chunklist_w268769136.m3u8
 
-
-
-################################################################################
-14. MALAYSIA CHANEL 
-################################################################################
-
-
 #EXTINF:-1 tvg-id="" tvg-name="TV1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/320px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="14. MALAYSIA CHANEL", TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=5|Referer="https://rtm-player.glueapi.io/"
 
@@ -930,14 +846,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer="ht
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/Berita_RTM_v2.png" group-title="14. MALAYSIA CHANEL", Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5|Referer="https://rtm-player.glueapi.io/"
-
-
-
-################################################################################
-18. TV DAERAH
-################################################################################
-
-
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1143,14 +1051,6 @@ https://v2.siar.us/tatv/live.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="18. TV DAERAH",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
-
-
-################################################################################
-19. MUSIC CHANNEL
-################################################################################
-
-
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -1201,15 +1101,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857f48ecd2017f6ec01d7f0d4f/manifest.mpd
 
-
-
-
-################################################################################
-AVATAR SERIES
-################################################################################
-
-
-
 #EXTINF:-1 group-title="AVATAR SERIES" tvg-logo="https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2024/02/21225435/avatar-the-last-airbender-netflix-key-art.jpg" , Season 1 Eps 1
 http://newlife3.wanicelife.com:8880/series/29ca1063n05/werf324r32/79893.mkv
 
@@ -1233,14 +1124,6 @@ http://newlife3.wanicelife.com:8880/series/29ca1063n05/werf324r32/79899.mkv
 
 #EXTINF:-1 group-title="AVATAR SERIES" tvg-logo="https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2024/02/21225435/avatar-the-last-airbender-netflix-key-art.jpg" , Season 1 Eps 8
 http://newlife3.wanicelife.com:8880/series/29ca1063n05/werf324r32/79900.mkv
-
-
-
-################################################################################
-HARRY POTTER 
-################################################################################
-
-
 
 #EXTINF:-1 group-title="HARRY POTTER" tvg-logo="https://material.asset.catchplay.com/WAR-IN-001-A0017/artworks/posters/WAR-IN-001-A0017-P272.jpg" , (2001) Harry Potter and the Sorcerer's Stone 
 https://stream.hownetwork.xyz/xxx/harry-potter-sorcerers-stone-2001-bluray/7/480.m3u8
@@ -1268,14 +1151,6 @@ https://cdn7iv.diebutx.com/ownhls/2020/8c946c41d5b7cfcf51851ae6d4914ec5/1080p/in
 
 #EXTINF:-1 group-title="HARRY POTTER" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRkNWRhZDgtN2M0Zi00YjZhLTk2MDUtZjNiMmIxMjFkYTBjXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg" , (2022) Harry Potter 20th Anniversary: Return to Hogwarts  
 https://cdn7iv.diebutx.com/storage/2022/st3.google.co/2022/01/13/task1/5650c5a9d95f5915a7fd1a9312664de7/720p/index.m3u8
-
-
-
-################################################################################
-NARCOS SERIES
-################################################################################
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Narcos_season_1.png" group-title="NARCOS SERIES", Season 1 Eps 1
 https://cdn7iv.diebutx.com/ownhls/2020/8daa5411fb2385263d290a4d0f74c9ef/480p/index.m3u8
@@ -1306,12 +1181,6 @@ https://cdn7iv.diebutx.com/ownhls/2020/54a9b20d43df39899216587d5a358088/720p/ind
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Narcos_season_1.png" group-title="NARCOS SERIES", Season 1 Eps 10
 https://cdn7iv.diebutx.com/ownhls/2020/bc1d91c1152e7f1995422dbcfc0c9f2e/720p/index.m3u8
-
-
-################################################################################
-CCTV LIVE INDO
-################################################################################
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dy9beMd.png" group-title="CCTV LIVE INDO",Medan Masjid Raya
 https://atcsdishub.pemkomedan.go.id/camera/KATAMSOMASJIDRAYA.m3u8
@@ -1362,13 +1231,3 @@ UNCATEGORIES
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
 #EXTINF:-1 tvg-id="JAMBEETV" tvg-logo="https://media.tenor.com/DZWkUd1dlygAAAAj/peepo-polska-pepo-polska.gif" group-title="UNCATEGORIES",XXX  
 https://raw.githubusercontent.com/forumberbagi/forumberbagi/main/jumpsc.mp4?raw=true
-
-
-
-################################################################################
-
-################################################################################
-
-
-
-</noscript>
